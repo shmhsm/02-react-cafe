@@ -22,12 +22,12 @@
     border-color: #003060;
 }
 
-.reset {
+.resetButton {
     background-color: #dc3545;
     border-color: #dc3545;
 }
 
-.reset:hover {
+.resetButton:hover {
     background-color: #bb2d3b;
     border-color: #b02a37;
 }

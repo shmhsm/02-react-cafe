@@ -21,7 +21,7 @@ const VoteOptions = ({ onVote, onReset, canReset }: VoteOptionsProps) => {
             </button>
 
             {canReset && (
-                <button className={css.button} onClick={onReset}>
+                <button className={css.resetButton} onClick={onReset}>
                     Reset
                 </button>
             )}
